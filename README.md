@@ -1,8 +1,9 @@
 - 👋 Hi, I’m SAMYAK KR SHARMA
-- 👀 I’m C\/C++ LANGUAGE
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me PH.NO.-  9691672494
+- 👀 I’m C++ LANGUAGE programmer
+- I've learned C, C++, HTML, CSS, JS, SQL,JAVA.
+- 🌱 I’m currently learning full stack web development
+- 💞️ I’m looking to collaborate on web development tasks.
+- 📫 How to reach me samyak.sharma.758@gmail.com
 
 <!---
 I'm a confident student completing my enginering in computer science and enginering from JAYPEE UNIVERSTIY ,GUNA(JUET).
