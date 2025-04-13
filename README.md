@@ -6,13 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samyak-sorron&label=Profile%20views&color=0e75b6&style=flat" alt="samyak-sorron" /> </p>
 
-- 🔭 I’m currently working on **HOMESTEAD using React and Blockchain**
-
-- 🌱 I’m currently Enhancing my knowledge on **Django and DSA with c++**
+- 🌱 I’m currently Enhancing my knowledge on **Full Stack Web Development and DSA with C++**
 
 - 👨‍💻 All of my projects are available at ([https://github.com/samyak-sorron](https://github.com/samyak-sorron?tab=repositories))
 
-- 💬 Ask me about **DSA, React.js, Django, C++, HTML, CSS, Git, MySQL, REST framework, JavaScript**
+- 💬 Ask me about **DSA, React.js, Django, Node.js, Express.js, C++, HTML, CSS, Git, MySQL, REST framework, JavaScript**
 
 - 📫 How to reach me **samyak.sharma.758@gmail.com**
 
